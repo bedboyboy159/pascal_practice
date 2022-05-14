@@ -1,0 +1,5 @@
+Bands       Value        Lower        Upper
+wvgrn      47500        47025        47975
+wkbrw      40600        38570        42630
+enyod     918000       872100       963900
+byywr    6880000      6742400      7017600
